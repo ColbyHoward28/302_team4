@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://github.com/ColbyHoward28/302_team4/edit/master/config.toml"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Team4 Website ICT 302"
 theme = "ananke"
 
 [build]
