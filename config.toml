@@ -1,4 +1,4 @@
-baseURL = "https://github.com/ColbyHoward28/302_team4/edit/master/config.toml"
+baseURL = "https://nervous-wescoff-406ba1.netlify.app"
 languageCode = "en-us"
 title = "Team4 Website ICT 302"
 theme = "ananke"
