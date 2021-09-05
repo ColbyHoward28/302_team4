@@ -1,7 +1,7 @@
 ---
-title: "Sample Post"
-date: 2020-08-12T00:00:00-04:00
+title: "Weekly update 1"
+date: 2021-09-05T00:00:00-04:00
 draft: false
 ---
 
-This is a sample post. You can copy the text of this post to create new posts for your weekly personal and group reports. Pay close attention to the format of the text in this file—changing it too drastically will cause the post to not show up.
+This week we figured out what type of website we want to design and came up with some cool ideas for the layout. We also talked about everyone's strength and weaknesses when it come to technology as well as group work.
