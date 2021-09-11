@@ -1,3 +1,9 @@
+---
+title: "Initial Group Contract"
+date: 2021-09-11T00:00:00-04:00
+draft: false
+---
+
 Team 4 group contract:
 
 
