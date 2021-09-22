@@ -34,9 +34,8 @@ HUGO_VERSION = "0.74.3"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
-[menu]
+
 [[menu.main]]
   name= 'about'
   weight = 1
-  [menu.main.params]
-    class = 'highlight-menu-item'
+  url = "/about"
