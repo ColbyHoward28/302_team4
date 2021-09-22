@@ -34,3 +34,12 @@ HUGO_VERSION = "0.74.3"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
+[menu]
+[[menu.main]]
+  identifier = 'about'
+  name = 'about hugo'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/about/'
+  weight = -110
+  [menu.main.params]
+    class = 'highlight-menu-item'
