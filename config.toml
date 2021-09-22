@@ -38,4 +38,4 @@ HUGO_ENABLEGITINFO = "true"
 [[menu.main]]
   name= 'about'
   weight = 1
-  url = "/about"
+  url = "/content/about.md"
