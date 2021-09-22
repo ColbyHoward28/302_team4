@@ -42,16 +42,16 @@ HUGO_ENABLEGITINFO = "true"
   
   [[menu.main]]
   name= 'artists'
-  weight = 1
+  weight = 2
   url = "/artist"
   
   [[menu.main]]
   name= 'news'
-  weight = 1
+  weight = 3
   url = "/news"
   
   [[menu.main]]
   name= 'contact'
-  weight = 1
+  weight = 4
   url = "/contact"
   
