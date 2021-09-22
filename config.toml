@@ -38,7 +38,7 @@ HUGO_ENABLEGITINFO = "true"
 [[menu.main]]
   name= 'about'
   weight = 1
-  url = "/content/about.md"
+  url = "/about.md"
   
   [[menu.main]]
   name= 'artists'
