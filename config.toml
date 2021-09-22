@@ -36,10 +36,7 @@ HUGO_ENABLEGITINFO = "true"
 
 [menu]
 [[menu.main]]
-  identifier = 'about'
-  name = 'about hugo'
-  pre = "<i class='fa fa-heart'></i>"
-  url = '/about/'
-  weight = -110
+  name= 'about'
+  weight = -1
   [menu.main.params]
     class = 'highlight-menu-item'
