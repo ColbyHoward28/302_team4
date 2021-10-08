@@ -4,6 +4,7 @@ date: 2021-09-22T00:00:00-04:00
 draft: false
 ---
 *Ideally, I want to try my hand at all aspects of developing this website, we have decided to rotate through roles over the course of the semester. 
+
 A work would look like:
 I have contributed to both front and back-end aspects of the website. I commit to posting and updating drafts before changing major elements of the website. 
 I have communicated consistently and executed the tasks I have committed to or been assigned. 
