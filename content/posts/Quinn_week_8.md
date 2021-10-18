@@ -3,6 +3,7 @@ title: "Quinn's Week 8 Personal Learning Report"
 date: 2021-10-17T00:00:00-04:00
 draft: false
 ---
+
 This week my learning most relates to: “I can identify and define key concepts in (web) content management”.
 
 We talked a lot about the concept of presentation this week, and how it is useful to develop content separate from presentation when possible. 
