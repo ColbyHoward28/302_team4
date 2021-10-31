@@ -1,5 +1,5 @@
 ---
-title: "Quinn's Intial Personal Contract"
+title: "Quinn's Revised Personal Contract"
 date: 2021-10-31T00:00:00-04:00
 draft: false
 ---
