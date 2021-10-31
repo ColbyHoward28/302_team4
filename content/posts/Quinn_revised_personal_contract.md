@@ -1,6 +1,6 @@
 ---
 title: "Quinn's Revised Personal Contract"
-date: 2021-10-30T00:00:00-04:00
+date: 2021-10-31T00:00:00-04:00
 draft: false
 ---
 A work would look like:
